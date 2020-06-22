@@ -25,7 +25,7 @@ double PIDX, PIDY, errorX, errorY, previous_errorX, previous_errorY, pwmX, pwmY,
 double PreviousGyroX, PreviousGyroY, PreviousGyroZ, IntGyroX, IntGyroY, IntGyroZ, DifferenceGyroX, DifferenceGyroY, DifferenceGyroZ, matrix1, matrix2, matrix3;
 double matrix4, matrix5, matrix6, matrix7, matrix8, matrix9, Ax, Ay;
 
-//Upright Angle of the Flight Computer-Dik durum açısı
+//Upright Angle of the Flight Computer
 int desired_angleX = 0;
 
 
