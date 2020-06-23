@@ -1,4 +1,4 @@
-# semi_thrustvectoredrocket_p-1_v1.0
+# semi_thrustvectoringrocket_p-1_v1.0
 
 The aim of this project is making self landing model rocket.
 
