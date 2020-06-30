@@ -121,13 +121,11 @@ void loop() {
   dt = (currentTime - previousTime) / 1000; 
   launchdetect();
   rotationmatrices();
+  delay(4100);
   parachute();
 
 }
 void parachute (){
-    motor1.run(BACKWARD);
-    motor2.run(FORWARD);
-    delay(4100);
   
     motor1.run(FORWARD);      
     motor2.run(BACKWARD);
